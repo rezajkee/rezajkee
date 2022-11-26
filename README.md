@@ -2,11 +2,11 @@
 
 
 ![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezajkee&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezajkee)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezajkee&layout=compact)
 
 
 
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rezajkee.rezajkee)
 
 <!--
 **rezajkee/rezajkee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
