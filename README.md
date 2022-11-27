@@ -20,7 +20,7 @@ I'm a novice Python developer and I want to become a professional. Feel free to 
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 - 🌱 I want to learn:
   ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-005ff9?style=flat-square&logo=FastAPI)
 - ⚡ Fact about me: I love movies and videogames
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rezajkee&count_private=true)
