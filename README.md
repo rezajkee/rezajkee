@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/rezajkee/rezajkee/main/wave.gif" width="30">
 
 
-![Anton's GitHub stats](https://github-readme-stats.vercel.app/api?username=rezajkee&count_private=true)
+[![Mail.ru Badge](https://img.shields.io/badge/-rezajkee@mail.ru-c14438?style=flat-square&logo=Mail.Ru&logoColor=white&link=mailto:rezajkee@mail.ru)](mailto:rezajkee@mail.ru)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rezajkee&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezajkee&layout=compact)
 
 
