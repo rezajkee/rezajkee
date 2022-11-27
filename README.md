@@ -1,6 +1,6 @@
 ## Hello there <img src="https://raw.githubusercontent.com/rezajkee/rezajkee/main/wave.gif" width="30">
 
-I'm a novice Python developer and I want to become a professional. Feel free to connect with me here:
+I'm a novice Python developer and I want to become a professional. I've finished «Python developer» course on [Hexlet.io](https://hexlet.io) and continue to study myself. Feel free to connect with me here:
 
 [![Telegram Badge](https://img.shields.io/badge/-@rezajkee-26A5E4?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/rezajkee)](https://t.me/rezajkee)
 [![Mail.ru Badge](https://img.shields.io/badge/-rezajkee@mail.ru-005ff9?style=flat-square&logo=Mail.Ru&logoColor=ff9e00&link=mailto:rezajkee@mail.ru)](mailto:rezajkee@mail.ru)
