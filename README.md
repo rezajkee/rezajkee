@@ -1,10 +1,10 @@
-### Hello there <img src="https://raw.githubusercontent.com/rezajkee/rezajkee/main/wave.gif" width="30">
+## Hello there <img src="https://raw.githubusercontent.com/rezajkee/rezajkee/main/wave.gif" width="30">
 
 I'm a novice Python developer and I want to become a professional. Feel free to connect with me here:
 
 [![Telegram Badge](https://img.shields.io/badge/-@rezajkee-26A5E4?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/rezajkee)](https://t.me/rezajkee)
 [![Mail.ru Badge](https://img.shields.io/badge/-rezajkee@mail.ru-005ff9?style=flat-square&logo=Mail.Ru&logoColor=ff9e00&link=mailto:rezajkee@mail.ru)](mailto:rezajkee@mail.ru)
-
+---
 - 🚀 I use daily:
   ![Python](https://img.shields.io/badge/-Python-A6AB26?style=flat-square&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -23,7 +23,7 @@ I'm a novice Python developer and I want to become a professional. Feel free to 
   ![Docker](https://img.shields.io/badge/-Docker-ED403B?style=flat-square&logo=Docker)
   ![FastAPI](https://img.shields.io/badge/-FastAPI-960F8A?style=flat-square&logo=FastAPI)
 - ⚡ Fact about me: I love movies and videogames
-
+---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rezajkee&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezajkee&layout=compact)
 
