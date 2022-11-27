@@ -11,16 +11,16 @@ I'm a novice Python developer and I want to become a professional. Feel free to 
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 - 💻 I also use:
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
-  ![SQLite](https://img.shields.io/badge/-SQLite-#003B57?style=flat-square&logo=sqlite)
+  ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-  ![Code Climate](https://img.shields.io/badge/-Code%20Climate-#000000?style=flat-square&logo=codeclimate)
+  ![Code Climate](https://img.shields.io/badge/-Code%20Climate-000000?style=flat-square&logo=codeclimate)
 - 🤔 I know basics about:
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 - 🌱 I want to learn:
-  ![Docker](https://img.shields.io/badge/-Docker-#2496ED?style=flat-square&logo=Docker)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-#009688?style=flat-square&logo=FastAPI)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI)
 - ⚡ Fact about me: I love movies and videogames
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rezajkee&count_private=true)
