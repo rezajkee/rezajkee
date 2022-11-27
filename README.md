@@ -17,7 +17,7 @@ I'm a novice Python developer and I want to become a professional. Feel free to 
   ![Code Climate](https://img.shields.io/badge/-Code%20Climate-000000?style=flat-square&logo=codeclimate)
 - 🤔 I know basics about:
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E07358?style=flat-square&logo=postgresql)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/-HTML5-103FE3?style=flat-square&logo=html5&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-40B35A?style=flat-square&logo=bootstrap)
 - 🌱 I want to learn:
   ![Docker](https://img.shields.io/badge/-Docker-ED403B?style=flat-square&logo=Docker)
