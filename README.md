@@ -6,7 +6,7 @@ I'm a novice Python developer and I want to become a professional. Feel free to 
 [![Mail.ru Badge](https://img.shields.io/badge/-rezajkee@mail.ru-005ff9?style=flat-square&logo=Mail.Ru&logoColor=ff9e00&link=mailto:rezajkee@mail.ru)](mailto:rezajkee@mail.ru)
 
 - 🚀 I use daily:
-  ![Python](https://img.shields.io/badge/-Python-AB4B48?style=flat-square&logo=Python)
+  ![Python](https://img.shields.io/badge/-Python-A6AB26?style=flat-square&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 - 💻 I also use:
