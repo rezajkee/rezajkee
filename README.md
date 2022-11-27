@@ -6,21 +6,22 @@ I'm a novice Python developer and I want to become a professional. Feel free to 
 [![Mail.ru Badge](https://img.shields.io/badge/-rezajkee@mail.ru-005ff9?style=flat-square&logo=Mail.Ru&logoColor=ff9e00&link=mailto:rezajkee@mail.ru)](mailto:rezajkee@mail.ru)
 
 - 🚀 I use daily:
-  ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=flat-square&logo=Python)
+  ![Python](https://img.shields.io/badge/-Python-AB4B48?style=flat-square&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 - 💻 I also use:
   ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=Django)
+  ![Pytest](https://img.shields.io/badge/-Pytest-DBD321?style=flat-square&logo=Pytest)
   ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![Code Climate](https://img.shields.io/badge/-Code%20Climate-000000?style=flat-square&logo=codeclimate)
 - 🤔 I know basics about:
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E07358?style=flat-square&logo=postgresql)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-40B35A?style=flat-square&logo=bootstrap)
 - 🌱 I want to learn:
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker)
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-005ff9?style=flat-square&logo=FastAPI)
+  ![Docker](https://img.shields.io/badge/-Docker-ED403B?style=flat-square&logo=Docker)
+  ![FastAPI](https://img.shields.io/badge/-FastAPI-960F8A?style=flat-square&logo=FastAPI)
 - ⚡ Fact about me: I love movies and videogames
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rezajkee&count_private=true)
