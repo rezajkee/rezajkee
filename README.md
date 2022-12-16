@@ -29,6 +29,6 @@ I'm a novice Python developer and I want to become a professional. I've finished
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rezajkee&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezajkee&layout=compact&exclude_repo=carzone)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rezajkee&layout=compact&exclude_repo=carzone,online-shop-app)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rezajkee.rezajkee)
