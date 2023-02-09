@@ -22,8 +22,8 @@ I'm a novice Python developer and I want to become a professional. I've finished
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-E07358?style=flat-square&logo=postgresql)
   ![HTML5](https://img.shields.io/badge/-HTML5-103FE3?style=flat-square&logo=html5&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-40B35A?style=flat-square&logo=bootstrap)
-- 📚 I want to learn:
   ![FastAPI](https://img.shields.io/badge/-FastAPI-960F8A?style=flat-square&logo=FastAPI)
+- 📚 I want to learn:
   ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 - ⭐ Fact about me: I love movies 🎬 and videogames 🎮
